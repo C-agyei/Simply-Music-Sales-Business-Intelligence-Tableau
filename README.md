@@ -2,6 +2,8 @@
 
 ## Tableau Sales & Business Intelligence Analysis
 
+![Simply Music Sales & Business Intelligence Dashboard](01-Simply-Music-Birds-Eye-View.png)
+
 ### Project Overview
 
 This project provides an interactive business intelligence analysis of Simply Music's sales performance. The dashboard was developed in Tableau to provide a clear view of revenue, profit, units sold, sales trends, product performance and sales channel performance.
