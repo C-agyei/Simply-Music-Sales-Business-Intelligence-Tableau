@@ -2,7 +2,13 @@
 
 ## Tableau Sales & Business Intelligence Analysis
 
+### Bird's Eye View
+
 ![Simply Music Sales & Business Intelligence Dashboard](01-Simply-Music-Birds-Eye-View.png)
+
+### Detailed View
+
+![Simply Music Detailed Dashboard](02-Simply-Music-Detailed-View.png)
 
 ### Project Overview
 
